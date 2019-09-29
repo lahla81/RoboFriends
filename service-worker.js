@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["index.html","5df2c8aa9d9fc395481ac262e108c0fd"],["manifest.json","6fe6478a4d5abb86d6a927afe825a6e6"],["static/css/2.1e00258c.chunk.css","365eb1780061b29c92d76125745979be"],["static/css/main.ffb42fb1.chunk.css","7e8e41701eee745c1ec97655c5f45970"],["static/js/2.521213d1.chunk.js","54b4d231fdaeebae10aaa25621baafb6"],["static/js/main.0a19947d.chunk.js","0a22be2f8269e50392c298f5479bbbb9"],["static/js/runtime~main.a8a9905a.js","238c9148d722c1b6291779bd879837a1"],["static/media/SEGA.12a3db8b.woff","12a3db8ba7f5423327bb12aed3c41977"]];
+var precacheConfig = [["index.html","92b0e454a4f61f639a992f877ea3f668"],["manifest.json","6fe6478a4d5abb86d6a927afe825a6e6"],["static/css/2.1e00258c.chunk.css","365eb1780061b29c92d76125745979be"],["static/css/main.8dbc2cbe.chunk.css","f6372a9621096d9dedd669b538093458"],["static/js/2.521213d1.chunk.js","54b4d231fdaeebae10aaa25621baafb6"],["static/js/main.3521b43a.chunk.js","6e93866f3552a1de684fc2381cc5ec81"],["static/js/runtime~main.19bee101.js","d4f7aae8180721c24d229cdb0f773c69"],["static/media/SEGA.12a3db8b.woff","12a3db8ba7f5423327bb12aed3c41977"]];
 var cacheName = 'sw-precache-v2-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
